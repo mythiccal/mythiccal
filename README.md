@@ -13,7 +13,7 @@
   <a href="https://patreon.com/chillzonesmp" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Patreon&logo=patreon&label=ChillZone&color=F96854&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="patreon logo"  />
   </a>
-  <a href="https://discord.com/channels/635485167649161216/1165421437482446878/1166863888772513842" target="_blank">
+  <a href="https://www.paypal.com/donate/?hosted_button_id=63TPTMLZDHS56" target="_blank">
     <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=ChillZone&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="paypal logo"  />
   </a>
   <a href="https://ko-fi.com/mythiccal" target="_blank">
