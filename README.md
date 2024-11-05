@@ -118,11 +118,10 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mythiccal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
+  <img src="https://stats1-lime.vercel.app/api?username=mythiccal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
 </div>
 
 ###
-
 <div align="center">
   <a href="https://open.spotify.com/user/pu01fmnj6femfvkrxfc84rmoo">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=pu01fmnj6femfvkrxfc84rmoo&count=5&unique=false" alt="Spotify recently played"  />
