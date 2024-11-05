@@ -118,7 +118,7 @@
 ###
 
 <div align="center">
-  <img src="https://stats1-lime.vercel.app/api?username=mythiccal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
+  <img src="https://stats1-lime.vercel.app/api?username=mythiccal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&rank_icon=github&order=1" height="250" alt="stats graph"  />
 </div>
 
 ###
